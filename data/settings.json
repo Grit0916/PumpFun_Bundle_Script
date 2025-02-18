@@ -1,0 +1,15 @@
+{
+    "rpc": "https://palpable-divine-patina.solana-mainnet.quiknode.pro/daf3637feeccf0e5633f836b636746182cebfd39",
+    "dev_wallet_pk": "3dJCCuKYGN1B1cvhukaygdUEDqfpEHn1nqYVW5CFwEZM92DRLnfYyHDsxy9p5fYESrDSKrJTiGQa9Aq8QQtKSZj3",
+    "deposit_wallet_pk": "4estHLqxNr7adybt1BEco3vVokk45EeVK6LhMm7z7StZJ2tuBVJgro6meJU4GsRfpZPfXubREjiVy5KzmcrDBPk1",
+    "mint_pk": "4wbaS3wC613kgPLVb5VvanLH3MnMLNpQnpGpdx9D29jP6UwWKCSZUkn5YjHXEZESqQ3osotAk1EusX4yNajqwQgW",
+    "dev_wallet_sol_buy": 0.03,
+    "wallets_min_sol_buy": 0.01,
+    "wallets_max_sol_buy": 0.01,
+    "token_name": "Andrew Client",
+    "token_symbol": "Andrew",
+    "token_desc": "Mr.Andrew is cool",
+    "twitter": "https://x.com/TateOfficialUni",
+    "telegram": "https://t.me/awandrewa",
+    "website": "https://www.jointherealworld.com/"
+}
